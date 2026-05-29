@@ -41,6 +41,12 @@ O projeto foi desenvolvido para funcionar em:
 
 Criar uma experiência mais acessível e amigável para usuários que precisam de suporte visual, auditivo ou interação simplificada.
 
+## 🌐 Demonstração
+
+🚀 Clique abaixo para acessar o projeto online:
+
+👉 [AcessIA Online](https://mipfranco.github.io/acessia/)
+
 ## 👨‍💻 Desenvolvido por
 
 Michele Franco
